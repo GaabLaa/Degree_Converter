@@ -13,6 +13,8 @@ body {
 	font-family: sans-serif;
 	color: #ddd;
 	background-color: #1e1e1e;
+	background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+	background-image: linear-gradient(to top, #1e3c72 10%, #1e3c72 60%, #2a5298 100%);
 }
 
 label {
